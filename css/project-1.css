@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.hero {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+}
+.elastic-slider {
+  height: 100vh;
+  width: 100%;
+  cursor: grab;
+}
+#image1 {
+  background-image: url(../src/images/homse/homes-1.JPG);
+}
+
+#image2 {
+  background-image: url(../src/images/homse/homes-2.JPG);
+}
+
+#image3 {
+  background-image: url(../src/images/homse/homes-3.JPG);
+}
+
+#image4 {
+  background-image: url(../src/images/homse/homes-4.JPG);
+}
